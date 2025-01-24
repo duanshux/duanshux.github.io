@@ -4,7 +4,7 @@
         <title>断书</title>
         <link>https://duanshu.org</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jan 2025 21:04:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jan 2025 21:10:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright © 2016-present, 断书</copyright>
@@ -1920,28 +1920,6 @@ npm install hexo-generat]]></description>
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Hexo配置]]></title>
-            <link>https://duanshu.org/software/hexo/config/</link>
-            <guid>https://duanshu.org/software/hexo/config/</guid>
-            <pubDate>Wed, 15 Jan 2025 15:35:57 GMT</pubDate>
-            <description><![CDATA[Hexo配置
-Hexo隐藏文档]]></description>
-            <content:encoded><![CDATA[<h1 id="hexo配置" tabindex="-1">Hexo配置 <a class="header-anchor" href="#hexo配置" aria-label="Permalink to &quot;Hexo配置&quot;"></a></h1>
-<p><a href="./hide-pages/">Hexo隐藏文档</a></p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hexo编辑]]></title>
-            <link>https://duanshu.org/software/hexo/edit/</link>
-            <guid>https://duanshu.org/software/hexo/edit/</guid>
-            <pubDate>Wed, 15 Jan 2025 15:35:57 GMT</pubDate>
-            <description><![CDATA[Hexo编辑
-使用VSCode编辑时插入图片]]></description>
-            <content:encoded><![CDATA[<h1 id="hexo编辑" tabindex="-1">Hexo编辑 <a class="header-anchor" href="#hexo编辑" aria-label="Permalink to &quot;Hexo编辑&quot;"></a></h1>
-<p><a href="./insert-image/">使用VSCode编辑时插入图片</a></p>
-]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[使用VSCode编辑时插入图片]]></title>
             <link>https://duanshu.org/software/hexo/edit/insert-image/</link>
             <guid>https://duanshu.org/software/hexo/edit/insert-image/</guid>
@@ -2222,17 +2200,6 @@ npm install --save hexo-theme]]></description>
 <h2 id="主题安装" tabindex="-1">主题安装 <a class="header-anchor" href="#主题安装" aria-label="Permalink to &quot;主题安装&quot;"></a></h2>
 <div class="language-sh vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">sh</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">npm</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> install</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> --save</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> hexo-theme-fluid</span></span></code></pre>
 </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hexo主题]]></title>
-            <link>https://duanshu.org/software/hexo/themes/</link>
-            <guid>https://duanshu.org/software/hexo/themes/</guid>
-            <pubDate>Wed, 15 Jan 2025 15:35:57 GMT</pubDate>
-            <description><![CDATA[Hexo主题
-Fluid]]></description>
-            <content:encoded><![CDATA[<h1 id="hexo主题" tabindex="-1">Hexo主题 <a class="header-anchor" href="#hexo主题" aria-label="Permalink to &quot;Hexo主题&quot;"></a></h1>
-<p><a href="./fluid/">Fluid</a></p>
-]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Maven快速开始]]></title>
