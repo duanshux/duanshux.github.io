@@ -4,7 +4,7 @@
         <title>断书</title>
         <link>https://duanshu.org</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jan 2025 15:42:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jan 2025 21:04:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright © 2016-present, 断书</copyright>
@@ -28,28 +28,6 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[《道德经》读后感]]></title>
-            <link>https://duanshu.org/impression/daodejing/</link>
-            <guid>https://duanshu.org/impression/daodejing/</guid>
-            <pubDate>Fri, 24 Jan 2025 15:41:42 GMT</pubDate>
-            <description><![CDATA[《道德经》读后感
-《道德经》读后感，以翻译为主。]]></description>
-            <content:encoded><![CDATA[<h1 id="《道德经》读后感" tabindex="-1">《道德经》读后感 <a class="header-anchor" href="#《道德经》读后感" aria-label="Permalink to &quot;《道德经》读后感&quot;"></a></h1>
-<p>《道德经》读后感，以翻译为主。</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[词的读后感]]></title>
-            <link>https://duanshu.org/impression/ci/</link>
-            <guid>https://duanshu.org/impression/ci/</guid>
-            <pubDate>Thu, 23 Jan 2025 12:33:18 GMT</pubDate>
-            <description><![CDATA[词的读后感
-记录一些词的读后感。]]></description>
-            <content:encoded><![CDATA[<h1 id="词的读后感" tabindex="-1">词的读后感 <a class="header-anchor" href="#词的读后感" aria-label="Permalink to &quot;词的读后感&quot;"></a></h1>
-<p>记录一些词的读后感。</p>
-]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[辛弃疾《木兰花慢·可怜今夕月》读后感]]></title>
             <link>https://duanshu.org/impression/ci/xqj-mlhm-kljxy/</link>
             <guid>https://duanshu.org/impression/ci/xqj-mlhm-kljxy/</guid>
@@ -70,17 +48,6 @@
 <p>听说你要去往海底，却又没人知道缘由，这难以捉摸的事情着实令我发愁。我怕海中的万里长鲸横冲直撞，触破了月亮上的玉殿琼楼。虾蟆固然可以在水中游荡，月宫中的玉兔又如何能像虾蟆一样在水中沉浮？如果你在水底一切都好，那你为何又渐渐变成弯钩的模样？</p>
 <p>如《天问》一样，词人所问隐有条理，从头至尾衔接有序。同时又极富想象力，展现出了跳脱的思维。“词人想象，直悟月轮绕地之理”，跨越了时代的局限，在设问中蕴含的猜想令人称奇。</p>
 <p>而这种模糊上下片的界限、通篇设问、一气呵成的创作形式，也展现出了辛弃疾不拘一格，大气磅礴的创作风格，表现出其极高的文学天才。</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[观后感]]></title>
-            <link>https://duanshu.org/impression/</link>
-            <guid>https://duanshu.org/impression/</guid>
-            <pubDate>Thu, 23 Jan 2025 12:33:18 GMT</pubDate>
-            <description><![CDATA[观后感
-各种观后感，包括但不限于电影动漫，诗词歌赋，文学名著，网络小说。]]></description>
-            <content:encoded><![CDATA[<h1 id="观后感" tabindex="-1">观后感 <a class="header-anchor" href="#观后感" aria-label="Permalink to &quot;观后感&quot;"></a></h1>
-<p>各种观后感，包括但不限于电影动漫，诗词歌赋，文学名著，网络小说。</p>
 ]]></content:encoded>
         </item>
         <item>
@@ -203,17 +170,6 @@
 <span class="line"><span>}</span></span></code></pre>
 </div><p>在<code>https://github.com/settings/personal-access-tokens</code>中为要托管到的静态仓库新建密钥，注意要给密钥相应的权限。</p>
 <p>在<code>https://github.com/上传的项目地址/settings/secrets/actions</code>中创建名为<code>ACCESS_TOKEN</code>的secret，值为前面生成的密钥。</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Windows的安装与使用]]></title>
-            <link>https://duanshu.org/system/windows/</link>
-            <guid>https://duanshu.org/system/windows/</guid>
-            <pubDate>Wed, 22 Jan 2025 16:50:31 GMT</pubDate>
-            <description><![CDATA[Windows的安装与使用
-Windows自定义文件夹样式]]></description>
-            <content:encoded><![CDATA[<h1 id="windows的安装与使用" tabindex="-1">Windows的安装与使用 <a class="header-anchor" href="#windows的安装与使用" aria-label="Permalink to &quot;Windows的安装与使用&quot;"></a></h1>
-<p><a href="/system/windows/desktop-ini/">Windows自定义文件夹样式</a></p>
 ]]></content:encoded>
         </item>
         <item>
@@ -348,72 +304,6 @@ Windows自定义文件夹样式]]></description>
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[只言片语]]></title>
-            <link>https://duanshu.org/blog/cross/</link>
-            <guid>https://duanshu.org/blog/cross/</guid>
-            <pubDate>Thu, 16 Jan 2025 14:02:19 GMT</pubDate>
-            <description><![CDATA[只言片语
-既然已经加了评论功能，那就用评论记录日常的只言片语吧。欢迎回复我的评论（登录后会显示回复框），但请不要在此页面直接发表评论，谢谢。&lt;3 需要留言请使用留言板。下面是~~评论区~~我的日]]></description>
-            <content:encoded><![CDATA[<h1 id="只言片语" tabindex="-1">只言片语 <a class="header-anchor" href="#只言片语" aria-label="Permalink to &quot;只言片语&quot;"></a></h1>
-<p>既然已经加了评论功能，那就用评论记录日常的只言片语吧。欢迎回复我的评论（登录后会显示回复框），但<strong>请不要在此页面直接发表评论</strong>，谢谢。❤️ 需要留言请使用<a href="./../../comments/">留言板</a>。下面是<s>评论区</s>我的日常碎碎念：</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[留言板]]></title>
-            <link>https://duanshu.org/comments/</link>
-            <guid>https://duanshu.org/comments/</guid>
-            <pubDate>Thu, 16 Jan 2025 09:56:22 GMT</pubDate>
-            <description><![CDATA[留言板
-欢迎评论留言。]]></description>
-            <content:encoded><![CDATA[<h1 id="留言板" tabindex="-1">留言板 <a class="header-anchor" href="#留言板" aria-label="Permalink to &quot;留言板&quot;"></a></h1>
-<p>欢迎评论留言。</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ArchLinux]]></title>
-            <link>https://duanshu.org/system/arch/</link>
-            <guid>https://duanshu.org/system/arch/</guid>
-            <pubDate>Thu, 16 Jan 2025 09:56:22 GMT</pubDate>
-            <description><![CDATA[ArchLinux的安装和使用
-Arch安装后的简易配置
-ArchLinux安装]]></description>
-            <content:encoded><![CDATA[<h1 id="archlinux的安装和使用" tabindex="-1">ArchLinux的安装和使用 <a class="header-anchor" href="#archlinux的安装和使用" aria-label="Permalink to &quot;ArchLinux的安装和使用&quot;"></a></h1>
-<p><a href="./install/">Arch安装后的简易配置</a></p>
-<p><a href="./config/">ArchLinux安装</a></p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Debian]]></title>
-            <link>https://duanshu.org/system/debian/</link>
-            <guid>https://duanshu.org/system/debian/</guid>
-            <pubDate>Thu, 16 Jan 2025 09:56:22 GMT</pubDate>
-            <description><![CDATA[Debian的安装与使用
-Debian使用Wine安装QQ和微信]]></description>
-            <content:encoded><![CDATA[<h1 id="debian的安装与使用" tabindex="-1">Debian的安装与使用 <a class="header-anchor" href="#debian的安装与使用" aria-label="Permalink to &quot;Debian的安装与使用&quot;"></a></h1>
-<p><a href="./wechat/">Debian使用Wine安装QQ和微信</a></p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[操作系统的安装与使用]]></title>
-            <link>https://duanshu.org/system/</link>
-            <guid>https://duanshu.org/system/</guid>
-            <pubDate>Thu, 16 Jan 2025 09:56:22 GMT</pubDate>
-            <description><![CDATA[操作系统的安装与使用]]></description>
-            <content:encoded><![CDATA[<h1 id="操作系统的安装与使用" tabindex="-1">操作系统的安装与使用 <a class="header-anchor" href="#操作系统的安装与使用" aria-label="Permalink to &quot;操作系统的安装与使用&quot;"></a></h1>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[MacOS的安装与使用]]></title>
-            <link>https://duanshu.org/system/macos/</link>
-            <guid>https://duanshu.org/system/macos/</guid>
-            <pubDate>Thu, 16 Jan 2025 09:56:22 GMT</pubDate>
-            <description><![CDATA[黑&白 MacOS的安装与使用
-联想M73黑苹果Big Sur使用BCM94352HMB网卡的蓝牙问题]]></description>
-            <content:encoded><![CDATA[<h1 id="黑-白-macos的安装与使用" tabindex="-1">黑&amp;白 MacOS的安装与使用 <a class="header-anchor" href="#黑-白-macos的安装与使用" aria-label="Permalink to &quot;黑&amp;白 MacOS的安装与使用&quot;"></a></h1>
-<p><a href="/system/macos/BCM94352HMB/">联想M73黑苹果Big Sur使用BCM94352HMB网卡的蓝牙问题</a></p>
-]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[关于我]]></title>
             <link>https://duanshu.org/about/</link>
             <guid>https://duanshu.org/about/</guid>
@@ -467,307 +357,6 @@ Debian使用Wine安装QQ和微信]]></description>
 <p>辛弃疾</p>
 <p>甚矣吾哀矣。怅平生、交游零落，只今余几！白发空垂三千丈，一笑人间万事。问何物、能令公喜？我见青山多妩媚，料青山见我应如是。情与貌，略相似。</p>
 <p>一尊搔首东窗里。想渊明、停云诗就，此时风味。江左沉酣求名者，岂识浊醪妙理。回首叫、云飞风起。不恨古人吾不见，恨古人不见吾狂耳。知我者，二三子。</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[文章]]></title>
-            <link>https://duanshu.org/article/</link>
-            <guid>https://duanshu.org/article/</guid>
-            <pubDate>Thu, 16 Jan 2025 07:21:21 GMT</pubDate>
-            <description><![CDATA[文章
-想写一些关于空想、浪漫、爱的故事。]]></description>
-            <content:encoded><![CDATA[<h1 id="文章" tabindex="-1">文章 <a class="header-anchor" href="#文章" aria-label="Permalink to &quot;文章&quot;"></a></h1>
-<p>想写一些关于空想、浪漫、爱的故事。</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[菜谱]]></title>
-            <link>https://duanshu.org/blog/cookbooks/</link>
-            <guid>https://duanshu.org/blog/cookbooks/</guid>
-            <pubDate>Thu, 16 Jan 2025 07:21:21 GMT</pubDate>
-            <description><![CDATA[菜谱
-我不怎么会做饭，只是偶尔会做一点。
-菜谱对我来说还挺需要的。]]></description>
-            <content:encoded><![CDATA[<h1 id="菜谱" tabindex="-1">菜谱 <a class="header-anchor" href="#菜谱" aria-label="Permalink to &quot;菜谱&quot;"></a></h1>
-<p>我不怎么会做饭，只是偶尔会做一点。</p>
-<p>菜谱对我来说还挺需要的。</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2023的碎语]]></title>
-            <link>https://duanshu.org/blog/cross/2023/</link>
-            <guid>https://duanshu.org/blog/cross/2023/</guid>
-            <pubDate>Thu, 16 Jan 2025 07:21:21 GMT</pubDate>
-            <description><![CDATA[2023的碎语
- 9月
-2023-09-25 20:17:58
-每次看到摩尔定律还是挺感慨的。
-2023-09-25 19:40:39
-忽然发现前面发动态是19号，现在已经是25号了，时间过的也太快了]]></description>
-            <content:encoded><![CDATA[<h1 id="_2023的碎语" tabindex="-1">2023的碎语 <a class="header-anchor" href="#_2023的碎语" aria-label="Permalink to &quot;2023的碎语&quot;"></a></h1>
-<h2 id="_9月" tabindex="-1">9月 <a class="header-anchor" href="#_9月" aria-label="Permalink to &quot;9月&quot;"></a></h2>
-<p><strong>2023-09-25 20:17:58</strong></p>
-<p>每次看到摩尔定律还是挺感慨的。</p>
-<p><strong>2023-09-25 19:40:39</strong></p>
-<p>忽然发现前面发动态是19号，现在已经是25号了，时间过的也太快了吧。</p>
-<p><strong>2023-09-25 19:32:26</strong></p>
-<p>找了一圈mathjax渲染公式显示的bug，然后发现是改了博客字体的原因，心累。</p>
-<p><strong>2023-09-19 22:34:01</strong></p>
-<p>从github转到gitlab，体验真的好了太多。</p>
-<p><strong>2023-09-19 16:10:37</strong></p>
-<p>我从未见过如CSDN这般厚颜无耻且没用的网站。</p>
-<p><strong>2023-09-19 15:19:13</strong></p>
-<p>这哪是在恢复博客备份，这分明是在练习使用git。</p>
-<p><strong>2023-09-18 07:15:38</strong></p>
-<p>只有当我专注于某件事时，我才能感觉到自己活着。</p>
-<p><strong>2023-09-17 20:59:02</strong></p>
-<p>他人即地狱。</p>
-<p><strong>2023-09-14 06:46:46</strong></p>
-<p>昨晚又只睡了一个小时，感觉迟早猝死（最好早点）。另外我大概是不会相信爱了，不是爱情，是爱。如果有一天我竟然又相信爱了，希望这条动态能把我打醒。</p>
-<p><strong>2023-09-13 19:15:12</strong></p>
-<p>兜兜转转又用回了Hexo，感觉我选择搭建博客的方案的心路历程都能写一篇博客出来了。</p>
-<p><strong>2023-09-11 07:09:51</strong></p>
-<p>生活不过是一场慢性死亡。而我是那个等死的傻逼。</p>
-<h2 id="_7月" tabindex="-1">7月 <a class="header-anchor" href="#_7月" aria-label="Permalink to &quot;7月&quot;"></a></h2>
-<p><strong>2023-07-19 09:48:21</strong></p>
-<p>用hugo重建了博客站点，虽然还没整完，差了很多，但是因为实在忍不了以前的站点访问速度了，所以决定先把这个半成品挂上去再说。</p>
-<h2 id="_4月" tabindex="-1">4月 <a class="header-anchor" href="#_4月" aria-label="Permalink to &quot;4月&quot;"></a></h2>
-<p><strong>2023-04-20 05:31:27</strong></p>
-<p>换了新CPU让我用电脑处理各种乱七八糟的东西没卡顿大概是我最近仅有的顺心的事情。</p>
-<p><strong>2023-04-09 23:56:17</strong></p>
-<p>我终于意识到我心态是真不行，这一天天的焦虑的睡不着觉。</p>
-<p><strong>2023-04-08 21:58:53</strong></p>
-<p>每次看到别人的博客就会觉得很好看，我也想整成那样的。是的，我又开始嫌弃现在的博客页面了。</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2024的碎语]]></title>
-            <link>https://duanshu.org/blog/cross/2024/</link>
-            <guid>https://duanshu.org/blog/cross/2024/</guid>
-            <pubDate>Thu, 16 Jan 2025 07:21:21 GMT</pubDate>
-            <description><![CDATA[2024的碎语
- 12月
-2024-12-13 14:51:34
-不能细想，不然全是伤心。
-2024-12-11 01:25:45
-感觉其实Typecho的默认主题也完全够用。
-2024-12-06 ]]></description>
-            <content:encoded><![CDATA[<h1 id="_2024的碎语" tabindex="-1">2024的碎语 <a class="header-anchor" href="#_2024的碎语" aria-label="Permalink to &quot;2024的碎语&quot;"></a></h1>
-<h2 id="_12月" tabindex="-1">12月 <a class="header-anchor" href="#_12月" aria-label="Permalink to &quot;12月&quot;"></a></h2>
-<p><strong>2024-12-13 14:51:34</strong></p>
-<p>不能细想，不然全是伤心。</p>
-<p><strong>2024-12-11 01:25:45</strong></p>
-<p>感觉其实Typecho的默认主题也完全够用。</p>
-<p><strong>2024-12-06 02:21:01</strong></p>
-<p>为一个没人看的个人网站，一年花费小一千，真的值得吗？</p>
-<h2 id="_11月" tabindex="-1">11月 <a class="header-anchor" href="#_11月" aria-label="Permalink to &quot;11月&quot;"></a></h2>
-<p><strong>2024-11-29 20:25:30</strong></p>
-<p>我偶尔会觉得自己是个天才。</p>
-<p><strong>2024-11-26 13:38:09</strong></p>
-<p>感觉钓鱼比打游戏好玩多了。。。</p>
-<p><strong>2024-11-25 01:47:52</strong></p>
-<p>现在亚刻给我的感觉就是鸡肋。</p>
-<p><strong>2024-11-18 14:50:55</strong></p>
-<p>加布真好看吧，起码目前为止是这样，这几年的骑士剧属实让我不敢半场开香槟。</p>
-<p><strong>2024-11-17 08:54:46</strong></p>
-<p>好想钓鱼啊啊啊啊啊啊啊啊啊</p>
-<p>（坏了，染上钓鱼了</p>
-<p><strong>2024-11-17 00:53:25</strong></p>
-<p>合理怀疑我的网站访问慢是我的NGINX配置问题。</p>
-<p><strong>2024-11-16 13:59:32</strong></p>
-<p>试试Typecho的朋友圈主题</p>
-<h2 id="_10月" tabindex="-1">10月 <a class="header-anchor" href="#_10月" aria-label="Permalink to &quot;10月&quot;"></a></h2>
-<p><strong>2024-10-12 22:20:59</strong></p>
-<p>试试vercel。</p>
-<p><strong>2024-10-11 19:29:54</strong></p>
-<p>不管是对文艺作品也好，对游戏也好，对美食也好，我都会有一个较为主观的评价。</p>
-<p>这个评价很大程度上依赖于我自己的喜好和口味。</p>
-<p>我尚未达到那种，阅尽千帆后的，能对一个事物能做出足够客观的评价，的境界。</p>
-<p>依据我现在的评价标准来看：在美食节目里大谈文化纯属耍流氓，我只想知道它口味如何，好不好吃。（图穷匕见）</p>
-<p><strong>2024-10-07 06:16:19</strong></p>
-<p>己所不欲，勿施于人。</p>
-<p>己所欲者，勿强于人。</p>
-<p><strong>2024-10-05 12:16:34</strong></p>
-<p>摘抄：“感受不到的爱就不是爱。”</p>
-<p>另一个摘抄：“</p>
-<p>有人说：‘我这样破碎的人，爱我的人，要一片片捡起来爱我，实在是太辛苦了。’</p>
-<p>有人回复：‘爱你的人会美滋滋地边捡边喃喃道：这片是我的，这片也是我的。’ ”</p>
-<p><strong>2024-10-05 10:02:06</strong></p>
-<p>我好像有个挺奇怪的习惯。</p>
-<p>比如，我在看完各种刷到的小片段之后，对《葬送的芙莉莲》还挺感兴趣的。</p>
-<p>按理来说我这时候应该去把这个番看一遍。但是因为我知道这个番很短，所以我又不愿意去看了。</p>
-<p>我怕很快看完了，所以不去看。</p>
-<p>类似于有些人会把喜欢的菜最后吃掉的心情吧。</p>
-<p>但如果不去看，那这个番对我而言反而更像不存在一样。我觉得番对于一个个人的最直接的价值就是被看。</p>
-<p>总之正常人都是：刷到、喜欢、追番，这个流程吧。</p>
-<p>还挺奇妙的。</p>
-<p><strong>2024-10-03 10:22:51</strong></p>
-<p>累了，毁灭吧，赶紧的。</p>
-<p>（其实只是对博客访问速度不满意，又找不到符合我需求和现况的解决方法。）</p>
-<h2 id="_9月" tabindex="-1">9月 <a class="header-anchor" href="#_9月" aria-label="Permalink to &quot;9月&quot;"></a></h2>
-<p><strong>2024-09-23 22:44:00</strong></p>
-<p>人们喜欢傲娇，喜欢的是娇而不是傲，喜欢呆萌，喜欢的是萌而不是呆。</p>
-<h2 id="_8月" tabindex="-1">8月 <a class="header-anchor" href="#_8月" aria-label="Permalink to &quot;8月&quot;"></a></h2>
-<p><strong>2024-08-12 04:19:37</strong></p>
-<p>总是躲到这又躲到那，躲来躲去，最后躲无可躲。</p>
-<p><strong>2024-08-10 22:14:30</strong></p>
-<p>有很多话想说，却不知从何说起。</p>
-<h2 id="_7月" tabindex="-1">7月 <a class="header-anchor" href="#_7月" aria-label="Permalink to &quot;7月&quot;"></a></h2>
-<p><strong>2024-07-03 04:59:50</strong></p>
-<p>睡不着去翻书看，我把书翻烂了也没看出李清照的《如梦令·昨夜雨疏风骤》是写男欢女爱和宅斗的。</p>
-<h2 id="_5月" tabindex="-1">5月 <a class="header-anchor" href="#_5月" aria-label="Permalink to &quot;5月&quot;"></a></h2>
-<p><strong>2024-05-30 01:41:17</strong></p>
-<p>道路是曲折的，前途是光明的。</p>
-<p><strong>2024-05-30 00:00:19</strong></p>
-<p>控制情绪。</p>
-<p><strong>2024-05-06 02:40:05</strong></p>
-<p>想会得多，那就得去学得多。</p>
-<h2 id="_4月" tabindex="-1">4月 <a class="header-anchor" href="#_4月" aria-label="Permalink to &quot;4月&quot;"></a></h2>
-<p><strong>2024-04-11 02:29:08</strong></p>
-<p>不要变得麻木。</p>
-<h2 id="_3月" tabindex="-1">3月 <a class="header-anchor" href="#_3月" aria-label="Permalink to &quot;3月&quot;"></a></h2>
-<p><strong>2024-03-27 19:50:35</strong></p>
-<p>把博客里所有关于计算机的文章整理成一个文档式的网站了，不得不说，好用多了。</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2025的碎语]]></title>
-            <link>https://duanshu.org/blog/cross/2025/</link>
-            <guid>https://duanshu.org/blog/cross/2025/</guid>
-            <pubDate>Thu, 16 Jan 2025 07:21:21 GMT</pubDate>
-            <description><![CDATA[2025的碎语
- 1月
-2025-01-15 23:57:08
-没有什么是不能错过的。
-2025-01-12 06:05:00
-我也希望自己被鼓励和夸奖。]]></description>
-            <content:encoded><![CDATA[<h1 id="_2025的碎语" tabindex="-1">2025的碎语 <a class="header-anchor" href="#_2025的碎语" aria-label="Permalink to &quot;2025的碎语&quot;"></a></h1>
-<h2 id="_1月" tabindex="-1">1月 <a class="header-anchor" href="#_1月" aria-label="Permalink to &quot;1月&quot;"></a></h2>
-<p><strong>2025-01-15 23:57:08</strong></p>
-<p>没有什么是不能错过的。</p>
-<p><strong>2025-01-12 06:05:00</strong></p>
-<p>我也希望自己被鼓励和夸奖。</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[日常]]></title>
-            <link>https://duanshu.org/blog/</link>
-            <guid>https://duanshu.org/blog/</guid>
-            <pubDate>Thu, 16 Jan 2025 07:21:21 GMT</pubDate>
-            <description><![CDATA[日常
-这里记录了一些我的日常琐事和感想。]]></description>
-            <content:encoded><![CDATA[<h1 id="日常" tabindex="-1">日常 <a class="header-anchor" href="#日常" aria-label="Permalink to &quot;日常&quot;"></a></h1>
-<p>这里记录了一些我的日常琐事和感想。</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[长文]]></title>
-            <link>https://duanshu.org/blog/posts/</link>
-            <guid>https://duanshu.org/blog/posts/</guid>
-            <pubDate>Thu, 16 Jan 2025 07:21:21 GMT</pubDate>
-            <description><![CDATA[长文
-详细记录一些日常琐事和感想。]]></description>
-            <content:encoded><![CDATA[<h1 id="长文" tabindex="-1">长文 <a class="header-anchor" href="#长文" aria-label="Permalink to &quot;长文&quot;"></a></h1>
-<p>详细记录一些日常琐事和感想。</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[个人项目]]></title>
-            <link>https://duanshu.org/dev/</link>
-            <guid>https://duanshu.org/dev/</guid>
-            <pubDate>Thu, 16 Jan 2025 07:21:21 GMT</pubDate>
-            <description><![CDATA[个人项目
-QT实现的简易计算器]]></description>
-            <content:encoded><![CDATA[<h1 id="个人项目" tabindex="-1">个人项目 <a class="header-anchor" href="#个人项目" aria-label="Permalink to &quot;个人项目&quot;"></a></h1>
-<p><a href="/dev/calculator/">QT实现的简易计算器</a></p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[编程语言]]></title>
-            <link>https://duanshu.org/languages/</link>
-            <guid>https://duanshu.org/languages/</guid>
-            <pubDate>Thu, 16 Jan 2025 07:21:21 GMT</pubDate>
-            <description><![CDATA[编程语言
-* Python
-  * 快速开始
-  * 虚拟环境
-  * 第三方包
-    * fonttools-字体文件处理
-    * pydub-音频格式转换
-    * xlwings-表格处]]></description>
-            <content:encoded><![CDATA[<h1 id="编程语言" tabindex="-1">编程语言 <a class="header-anchor" href="#编程语言" aria-label="Permalink to &quot;编程语言&quot;"></a></h1>
-<ul>
-<li><a href="./python/">Python</a>
-<ul>
-<li><a href="./python/">快速开始</a></li>
-<li><a href="./python/virtualenv/">虚拟环境</a></li>
-<li><a href="./python/packages/">第三方包</a>
-<ul>
-<li><a href="./python/packages/fonttools/">fonttools-字体文件处理</a></li>
-<li><a href="./python/packages/pydub/">pydub-音频格式转换</a></li>
-<li><a href="./python/packages/xlwings/">xlwings-表格处理</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[软件安装配置及使用]]></title>
-            <link>https://duanshu.org/software/</link>
-            <guid>https://duanshu.org/software/</guid>
-            <pubDate>Thu, 16 Jan 2025 07:21:21 GMT</pubDate>
-            <description><![CDATA[软件安装配置及使用
-* frp-内网穿透工具
-* git-开发管理工具
-* halo-博客软件
-* hexo-静态博客生成框架
-* maven-java包管理工具
-* mysql-数据库
-* nvm-]]></description>
-            <content:encoded><![CDATA[<h1 id="软件安装配置及使用" tabindex="-1">软件安装配置及使用 <a class="header-anchor" href="#软件安装配置及使用" aria-label="Permalink to &quot;软件安装配置及使用&quot;"></a></h1>
-<ul>
-<li>
-<p><a href="./frp/">frp-内网穿透工具</a></p>
-</li>
-<li>
-<p><a href="./git/">git-开发管理工具</a></p>
-</li>
-<li>
-<p><a href="./halo/">halo-博客软件</a></p>
-</li>
-<li>
-<p><a href="./hexo/">hexo-静态博客生成框架</a></p>
-</li>
-<li>
-<p><a href="./maven/">maven-java包管理工具</a></p>
-</li>
-<li>
-<p><a href="./mysql/">mysql-数据库</a></p>
-</li>
-<li>
-<p><a href="./nvm/">nvm-node版本管理工具</a></p>
-</li>
-<li>
-<p><a href="./powershell7/">powershell7-windows的shell</a></p>
-</li>
-<li>
-<p><a href="./typecho/">typecho-博客软件</a></p>
-</li>
-<li>
-<p><a href="./vitepress/">vitepress-静态文档生成框架</a></p>
-</li>
-<li>
-<p><a href="./vscode/">vscode-文本编辑器</a></p>
-</li>
-<li>
-<p><a href="./ward/">ward-服务器状态展示面板</a></p>
-</li>
-<li>
-<p><a href="./zsh/">zsh-一个shell</a></p>
-</li>
-</ul>
 ]]></content:encoded>
         </item>
         <item>
@@ -1542,21 +1131,6 @@ woff2的字体后缀名为woff2
 </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Python包合集]]></title>
-            <link>https://duanshu.org/languages/python/packages/</link>
-            <guid>https://duanshu.org/languages/python/packages/</guid>
-            <pubDate>Wed, 15 Jan 2025 15:35:57 GMT</pubDate>
-            <description><![CDATA[Python包合集
-fonttools
-xlwings
-pydub]]></description>
-            <content:encoded><![CDATA[<h1 id="python包合集" tabindex="-1">Python包合集 <a class="header-anchor" href="#python包合集" aria-label="Permalink to &quot;Python包合集&quot;"></a></h1>
-<p><a href="./fonttools/">fonttools</a></p>
-<p><a href="./xlwings/">xlwings</a></p>
-<p><a href="./pydub/">pydub</a></p>
-]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[pydub快速开始]]></title>
             <link>https://duanshu.org/languages/python/packages/pydub/</link>
             <guid>https://duanshu.org/languages/python/packages/pydub/</guid>
@@ -1802,19 +1376,6 @@ sudo mkdir -p]]></description>
 <span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">[Install]</span></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">WantedBy</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">=multi-user.target</span></span></code></pre>
 </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Git]]></title>
-            <link>https://duanshu.org/software/git/</link>
-            <guid>https://duanshu.org/software/git/</guid>
-            <pubDate>Wed, 15 Jan 2025 15:35:57 GMT</pubDate>
-            <description><![CDATA[Git
-服务器端
-客户端]]></description>
-            <content:encoded><![CDATA[<h1 id="git" tabindex="-1">Git <a class="header-anchor" href="#git" aria-label="Permalink to &quot;Git&quot;"></a></h1>
-<p><a href="./server/">服务器端</a></p>
-<p><a href="./user/">客户端</a></p>
-]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Git服务器搭建]]></title>
@@ -3135,17 +2696,6 @@ sudo apt install mariadb-server nginx php php-fpm php]]></description>
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[VSCode安装配置及使用]]></title>
-            <link>https://duanshu.org/software/vscode/</link>
-            <guid>https://duanshu.org/software/vscode/</guid>
-            <pubDate>Wed, 15 Jan 2025 15:35:57 GMT</pubDate>
-            <description><![CDATA[VSCode安装配置及使用
-使用VSCode编辑多种编程语言的配置方法]]></description>
-            <content:encoded><![CDATA[<h1 id="vscode安装配置及使用" tabindex="-1">VSCode安装配置及使用 <a class="header-anchor" href="#vscode安装配置及使用" aria-label="Permalink to &quot;VSCode安装配置及使用&quot;"></a></h1>
-<p><a href="./languages/">使用VSCode编辑多种编程语言的配置方法</a></p>
-]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[使用VSCode编写C/C++]]></title>
             <link>https://duanshu.org/software/vscode/languages/cpp/</link>
             <guid>https://duanshu.org/software/vscode/languages/cpp/</guid>
@@ -3260,19 +2810,6 @@ https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-r]]></descr
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    ]</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span></code></pre>
 </div><p>然后就可以按F5调试了，不需要绑定快捷键，另外<strong>如果要使用调试功能，目录名和文件名都不能有中文，否则报错。</strong></p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[VSCode编辑多种编程语言的配置方法]]></title>
-            <link>https://duanshu.org/software/vscode/languages/</link>
-            <guid>https://duanshu.org/software/vscode/languages/</guid>
-            <pubDate>Wed, 15 Jan 2025 15:35:57 GMT</pubDate>
-            <description><![CDATA[使用VSCode编辑多种编程语言的配置方法
-C/C++
-Python]]></description>
-            <content:encoded><![CDATA[<h1 id="使用vscode编辑多种编程语言的配置方法" tabindex="-1">使用VSCode编辑多种编程语言的配置方法 <a class="header-anchor" href="#使用vscode编辑多种编程语言的配置方法" aria-label="Permalink to &quot;使用VSCode编辑多种编程语言的配置方法&quot;"></a></h1>
-<p><a href="./cpp/">C/C++</a></p>
-<p><a href="./python/">Python</a></p>
 ]]></content:encoded>
         </item>
         <item>
