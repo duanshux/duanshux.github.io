@@ -1,0 +1,5 @@
+Sitemap: https://duanshu.org/sitemap.xml
+
+User-agent: *
+Disallow: /blog/cross/
+Disallow: /comments/
