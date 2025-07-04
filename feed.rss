@@ -4,7 +4,7 @@
         <title>断书</title>
         <link>https://duanshu.org</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Jul 2025 17:02:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Jul 2025 19:54:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright © 2016-present, 断书</copyright>
@@ -12,23 +12,27 @@
             <title><![CDATA[关于我]]></title>
             <link>https://duanshu.org/about/</link>
             <guid>https://duanshu.org/about/</guid>
-            <pubDate>Tue, 04 Mar 2025 17:20:11 GMT</pubDate>
-            <description><![CDATA[关于我
- “断书”的由来
-大概是很久之前的某个晚上，想给自己的B站换一个两个字的ID。
-我在尝试多次不同的ID之后，终于找到这个没有重复的可用ID。
-但后来在B站也没用这个ID了，
-至于原因就涉及到一]]></description>
+            <pubDate>Fri, 04 Jul 2025 19:53:02 GMT</pubDate>
+            <description><![CDATA[
+# 关于我
+
+## “断书”的由来
+
+`断书`本来是我的B站ID，
+
+它虽然是在各种凑合的情况下诞生的，
+
+但我还挺喜欢的。
+
+]]></description>
             <content:encoded><![CDATA[<h1 id="关于我" tabindex="-1">关于我 <a class="header-anchor" href="#关于我" aria-label="Permalink to &quot;关于我&quot;"></a></h1>
 <h2 id="断书-的由来" tabindex="-1">“断书”的由来 <a class="header-anchor" href="#断书-的由来" aria-label="Permalink to &quot;“断书”的由来&quot;"></a></h2>
-<p>大概是很久之前的某个晚上，想给自己的B站换一个两个字的ID。</p>
-<p>我在尝试多次不同的ID之后，终于找到这个没有重复的可用ID。</p>
-<p>但后来在B站也没用这个ID了，</p>
-<p>至于原因就涉及到一个很长很长的故事了。</p>
-<p>时隔许久，我想把这个ID拾回来。</p>
-<p>那么我为什么想把这个ID拾回来呢？</p>
-<p>因为这个ID虽然是在各种凑合的情况下诞生的，但我还挺喜欢的。</p>
-<p>至于还有没有其他的一些更复杂的原因，我也不得而知了。</p>
+<p><code>断书</code>本来是我的B站ID，</p>
+<p>它虽然是在各种凑合的情况下诞生的，</p>
+<p>但我还挺喜欢的。</p>
+<hr>
+<p>顺便一提，我现在大部分网络平台的ID都叫<code>松茸汤包</code>。</p>
+<p>本来也考虑过再次更换域名，但是考虑到我更换网络平台ID的速度，还是算了。</p>
 <h2 id="网站的历史" tabindex="-1">网站的历史 <a class="header-anchor" href="#网站的历史" aria-label="Permalink to &quot;网站的历史&quot;"></a></h2>
 <p>我的第一个个人博客始建于2019年。</p>
 <p>在此之前，我曾在CSDN和语雀上写博文和记笔记，当然实际上也没形成随手记录的习惯，记录的内容也寥寥无几，屈指可数。</p>
@@ -57,6 +61,7 @@
 <h2 id="版权声明" tabindex="-1">版权声明 <a class="header-anchor" href="#版权声明" aria-label="Permalink to &quot;版权声明&quot;"></a></h2>
 <p><strong>本人保留本站所有内容的版权，禁止任何形式的转载，禁止任何形式的修改分发。</strong></p>
 <h2 id="附-首页引用的词" tabindex="-1">附：首页引用的词 <a class="header-anchor" href="#附-首页引用的词" aria-label="Permalink to &quot;附：首页引用的词&quot;"></a></h2>
+<p>虽然现在首页已经没这首词了，但鉴于我个人很喜欢，还是放在这里。</p>
 <p><strong>贺新郎</strong></p>
 <p>辛弃疾</p>
 <p>甚矣吾哀矣。怅平生、交游零落，只今余几！白发空垂三千丈，一笑人间万事。问何物、能令公喜？我见青山多妩媚，料青山见我应如是。情与貌，略相似。</p>
