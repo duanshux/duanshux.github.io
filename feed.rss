@@ -4,7 +4,7 @@
         <title>断书</title>
         <link>https://duanshu.org</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Jul 2025 19:54:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Jul 2025 20:05:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright © 2016-present, 断书</copyright>
@@ -12,7 +12,7 @@
             <title><![CDATA[关于我]]></title>
             <link>https://duanshu.org/about/</link>
             <guid>https://duanshu.org/about/</guid>
-            <pubDate>Fri, 04 Jul 2025 19:53:02 GMT</pubDate>
+            <pubDate>Fri, 04 Jul 2025 20:04:32 GMT</pubDate>
             <description><![CDATA[
 # 关于我
 
@@ -32,7 +32,7 @@
 <p>但我还挺喜欢的。</p>
 <hr>
 <p>顺便一提，我现在大部分网络平台的ID都叫<code>松茸汤包</code>。</p>
-<p>本来也考虑过再次更换域名，但是考虑到我更换网络平台ID的速度，还是算了。</p>
+<p>本来也想过再次更换域名，但是考虑到我更换网络平台ID的速度，还是算了。</p>
 <h2 id="网站的历史" tabindex="-1">网站的历史 <a class="header-anchor" href="#网站的历史" aria-label="Permalink to &quot;网站的历史&quot;"></a></h2>
 <p>我的第一个个人博客始建于2019年。</p>
 <p>在此之前，我曾在CSDN和语雀上写博文和记笔记，当然实际上也没形成随手记录的习惯，记录的内容也寥寥无几，屈指可数。</p>
@@ -57,7 +57,7 @@
 <p><s>邮箱地址：<code>duanshu.chen@outlook.com</code></s></p>
 <p>评论功能已添加。</p>
 <p>网站原本托管在gitlab pages，为了添加评论功能迁移到github pages。</p>
-<p>评论功能可能随着网站变更随时取消。</p>
+<p><strong>评论功能可能随着网站变更随时取消。</strong></p>
 <h2 id="版权声明" tabindex="-1">版权声明 <a class="header-anchor" href="#版权声明" aria-label="Permalink to &quot;版权声明&quot;"></a></h2>
 <p><strong>本人保留本站所有内容的版权，禁止任何形式的转载，禁止任何形式的修改分发。</strong></p>
 <h2 id="附-首页引用的词" tabindex="-1">附：首页引用的词 <a class="header-anchor" href="#附-首页引用的词" aria-label="Permalink to &quot;附：首页引用的词&quot;"></a></h2>
